@@ -1,0 +1,25 @@
+C:\Users\JacobSherwood\Documents\BYUI\Spring 2023\ECEN 397 Technical project\Reticle OPC Generator\bin\Debug\Reticle OPC Generator.exe.config
+C:\Users\JacobSherwood\Documents\BYUI\Spring 2023\ECEN 397 Technical project\Reticle OPC Generator\bin\Debug\Reticle OPC Generator.exe
+C:\Users\JacobSherwood\Documents\BYUI\Spring 2023\ECEN 397 Technical project\Reticle OPC Generator\bin\Debug\Reticle OPC Generator.pdb
+C:\Users\JacobSherwood\Documents\BYUI\Spring 2023\ECEN 397 Technical project\Reticle OPC Generator\obj\Debug\Reticle OPC Generator.csproj.AssemblyReference.cache
+C:\Users\JacobSherwood\Documents\BYUI\Spring 2023\ECEN 397 Technical project\Reticle OPC Generator\obj\Debug\Reticle_OPC_Generator.Properties.Resources.resources
+C:\Users\JacobSherwood\Documents\BYUI\Spring 2023\ECEN 397 Technical project\Reticle OPC Generator\obj\Debug\Reticle OPC Generator.csproj.GenerateResource.cache
+C:\Users\JacobSherwood\Documents\BYUI\Spring 2023\ECEN 397 Technical project\Reticle OPC Generator\obj\Debug\Reticle OPC Generator.csproj.CoreCompileInputs.cache
+C:\Users\JacobSherwood\Documents\BYUI\Spring 2023\ECEN 397 Technical project\Reticle OPC Generator\obj\Debug\Reticle OPC Generator.exe
+C:\Users\JacobSherwood\Documents\BYUI\Spring 2023\ECEN 397 Technical project\Reticle OPC Generator\obj\Debug\Reticle OPC Generator.pdb
+C:\Users\JacobSherwood\Documents\BYUI\Spring 2023\ECEN 397 Technical project\Reticle OPC Generator\obj\Debug\Reticle_OPC_Generator.Reticle_OPC_Generator.resources
+C:\Users\JacobSherwood\Documents\BYUI\Spring 2023\ECEN 397 Technical project\Reticle OPC Generator\obj\Debug\Reticle_OPC_Generator.Reticle_Generator.resources
+C:\Users\JacobSherwood\Documents\BYUI\Spring 2023\ECEN 397 Technical project\Reticle OPC Generator\obj\Debug\Reticle_OPC_Generator.Help.resources
+C:\Users\JacobSherwood\Documents\BYUI\Spring 2023\ECEN 397 Technical project\Reticle OPC Generator\bin\Debug\AForge.dll
+C:\Users\JacobSherwood\Documents\BYUI\Spring 2023\ECEN 397 Technical project\Reticle OPC Generator\bin\Debug\AForge.Imaging.dll
+C:\Users\JacobSherwood\Documents\BYUI\Spring 2023\ECEN 397 Technical project\Reticle OPC Generator\bin\Debug\AForge.Math.dll
+C:\Users\JacobSherwood\Documents\BYUI\Spring 2023\ECEN 397 Technical project\Reticle OPC Generator\bin\Debug\AForge.xml
+C:\Users\JacobSherwood\Documents\BYUI\Spring 2023\ECEN 397 Technical project\Reticle OPC Generator\bin\Debug\AForge.Imaging.xml
+C:\Users\JacobSherwood\Documents\BYUI\Spring 2023\ECEN 397 Technical project\Reticle OPC Generator\bin\Debug\AForge.Math.xml
+C:\Users\JacobSherwood\Documents\BYUI\Spring 2023\ECEN 397 Technical project\Reticle OPC Generator\obj\Debug\Reticle OPC Generator.csproj.CopyComplete
+C:\Users\JacobSherwood\Documents\BYUI\Spring 2023\ECEN 397 Technical project\Reticle OPC Generator\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\JacobSherwood\Documents\BYUI\Spring 2023\ECEN 397 Technical project\Reticle OPC Generator\bin\Debug\Emgu.CV.dll
+C:\Users\JacobSherwood\Documents\BYUI\Spring 2023\ECEN 397 Technical project\Reticle OPC Generator\bin\Debug\System.Drawing.Common.dll
+C:\Users\JacobSherwood\Documents\BYUI\Spring 2023\ECEN 397 Technical project\Reticle OPC Generator\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\JacobSherwood\Documents\BYUI\Spring 2023\ECEN 397 Technical project\Reticle OPC Generator\bin\Debug\Emgu.CV.xml
+C:\Users\JacobSherwood\Documents\BYUI\Spring 2023\ECEN 397 Technical project\Reticle OPC Generator\bin\Debug\System.Drawing.Common.xml
