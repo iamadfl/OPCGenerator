@@ -1,0 +1,12 @@
+Note in order to run this code you will need the following packages installed in your environment 
+
+the C# language
+ - AiForge 2.2.5
+ - AIForge.Imaging 2.2.5
+ - AIforge.Math 2.2.5
+ - DocumentFormat.OpenXml 2.20.0
+ - Emgu.CV.4.7.0.5276
+ - System.Drawing.Common.7.0.0
+ - System.Drawing.Primitives 4.3.0
+ - System.Runtime 4.3.1
+ - System. Runtime.InterlopServices.Runtime
